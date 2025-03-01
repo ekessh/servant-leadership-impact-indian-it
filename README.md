@@ -18,4 +18,4 @@ Ekessh - linkedin.com/in/ekessh/
 
 ## Disclaimer
 
-This thesis represents my own research and analysis. The views expressed herein are my own and do not necessarily reflect the views of [Your University Name] or any other organization.
+This thesis represents my own research and analysis. The views expressed herein are my own and do not necessarily reflect the views of any organization.
