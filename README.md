@@ -13,6 +13,7 @@ This research investigates the relationship between servant leadership practices
 * **Indian IT Sector:** Analysis of the unique challenges and opportunities within the Indian IT landscape.
 * **Correlation Analysis:** Statistical analysis to determine the relationship between servant leadership and IT project success.
 
+## Contact
 Ekessh - linkedin.com/in/ekessh/
 
 ## Disclaimer
